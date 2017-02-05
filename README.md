@@ -1,1 +1,1 @@
-# Poisson_image_editing_GPU
+# Poisson Image Processing Algorithm implemented using CUDA on NVIDIA GPU
